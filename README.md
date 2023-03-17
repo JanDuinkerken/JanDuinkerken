@@ -1,4 +1,9 @@
 ### Hi there 👋
+I'm Jan, a Software Developer and Cybersecurity enthusiast bsed in Spain.
+- My prefered languages are: C, Java and Python
+- Currently learning Rust
+- Doing my internship at @sngular
+- Studying computer engineering at UDC
 
 <!--
 **JanDuinkerken/JanDuinkerken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
